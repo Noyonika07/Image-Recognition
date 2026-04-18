@@ -3,7 +3,9 @@
 This project implements and extends the paper “Exploring Simple and Transferable Recognition-Aware Image Processing”. The goal is to bridge the gap between human perception and machine understanding by making image processing pipelines aware of recognition models.
 
 The core idea is to jointly optimize image reconstruction and recognition using the objective:
+
 L = Lproc + λ Lrecog
+
 where Lproc ensures visual similarity and Lrecog ensures semantic consistency with respect to a recognition model.
 
 We further analyze the behavior of this framework through experiments and extend it to domain-specific applications in medical imaging.
