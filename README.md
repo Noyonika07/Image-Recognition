@@ -10,6 +10,7 @@ where Lproc makes sure images are visually similar, and Lrecog ensures that its 
 
 Further, we investigate the framework's characteristics through experiments and extend it to domain-specific applications in medical imaging.
 
+
 **Project Demonstrations**
 
 Phase 1 - Mid Implementation
@@ -21,6 +22,7 @@ Phase 2 - Final Implementation
 
 This phase consists of the entire work with lambda trade-off analysis, cross-model transferability validation, medical imaging extension, and the proposed segmentation-aware recognition-aware loss.
 https://drive.google.com/file/d/1NNM4RaKcONGOvykJoyr-Ez3l5WEEvn6V/view?usp=sharing
+
 
 **Datasets Used**
 
